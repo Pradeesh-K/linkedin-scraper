@@ -2,3 +2,12 @@ linkedin/
 __pycache__/
 *.pyc
 .env
+
+# Ignore all Excel workbooks
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Ignore Excel temporary files (created when a file is open)
+~$*
