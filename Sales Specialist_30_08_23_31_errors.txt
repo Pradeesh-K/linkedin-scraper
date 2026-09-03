@@ -1,0 +1,756 @@
+Error log started: 2026-08-30 23:31:58.777999
+================================================================================
+
+JOB 2 FAILED
+Title: Business Development Specialist (w/m/x) Outpatient DACH
+Company: Smith+Nephew
+URL: https://de.linkedin.com/jobs/view/business-development-specialist-w-m-x-outpatient-dach-at-smith%2Bnephew-4432656899
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 4 FAILED
+Title: Sales Development Representative / SDR (all genders)
+Company: koppla
+URL: https://de.linkedin.com/jobs/view/sales-development-representative-sdr-all-genders-at-koppla-4336072611
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 6 FAILED
+Title: Sales Development Representative DACH (m/w/d)
+Company: SoSafe
+URL: https://de.linkedin.com/jobs/view/sales-development-representative-dach-m-w-d-at-sosafe-4354650136
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 8 FAILED
+Title: Junior Sales & Key Account Manager – Germany
+Company: Trackman
+URL: https://de.linkedin.com/jobs/view/junior-sales-key-account-manager-%E2%80%93-germany-at-trackman-4383770779
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 10 FAILED
+Title: Sales Development Representative
+Company: Darktrace
+URL: https://de.linkedin.com/jobs/view/sales-development-representative-at-darktrace-4414691317
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 12 FAILED
+Title: Inside Sales Manager / Sales Consultant (m/w/d)
+Company: actago GmbH
+URL: https://de.linkedin.com/jobs/view/inside-sales-manager-sales-consultant-m-w-d-at-actago-gmbh-4458830709
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 14 FAILED
+Title: Business Development Representative
+Company: Payhawk
+URL: https://de.linkedin.com/jobs/view/business-development-representative-at-payhawk-4414568824
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 16 FAILED
+Title: Inside Sales Account Associate (m/w/d)
+Company: UPS
+URL: https://de.linkedin.com/jobs/view/inside-sales-account-associate-m-w-d-at-ups-4404403249
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 18 FAILED
+Title: Vertriebsspezialisten Office Solutions (m/w/d)
+Company: docunova GmbH
+URL: https://de.linkedin.com/jobs/view/vertriebsspezialisten-office-solutions-m-w-d-at-docunova-gmbh-4458866204
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 20 FAILED
+Title: Graduate Sales Associate (f/m/d)
+Company: Moss
+URL: https://de.linkedin.com/jobs/view/graduate-sales-associate-f-m-d-at-moss-4214322430
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 22 FAILED
+Title: (Junior) Sales Representative (m/w/d) Surgical Technologies – Region Ost
+Company: Stryker
+URL: https://de.linkedin.com/jobs/view/junior-sales-representative-m-w-d-surgical-technologies-%E2%80%93-region-ost-at-stryker-4455436966
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 24 FAILED
+Title: Distributor & Channel Sales Specialist DACH (m/w/d),
+Company: Baxter International Inc.
+URL: https://de.linkedin.com/jobs/view/distributor-channel-sales-specialist-dach-m-w-d-at-baxter-international-inc-4461014532
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 26 FAILED
+Title: Business Development Representative German
+Company: Safeguard Global
+URL: https://de.linkedin.com/jobs/view/business-development-representative-german-at-safeguard-global-4424789275
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 28 FAILED
+Title: German Speaking Inside Sales Representative (Hybrid)
+Company: Ignite
+URL: https://de.linkedin.com/jobs/view/german-speaking-inside-sales-representative-hybrid-at-ignite-4459748689
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 30 FAILED
+Title: Account Executive EdTech
+Company: RecruitHer Consulting
+URL: https://de.linkedin.com/jobs/view/account-executive-edtech-at-recruither-consulting-4461015117
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 32 FAILED
+Title: Sales Development Representative- DACH (m-w-d)
+Company: Brandwatch
+URL: https://de.linkedin.com/jobs/view/sales-development-representative-dach-m-w-d-at-brandwatch-4442133111
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 34 FAILED
+Title: Sales Account Executive, Berlin (Ad Tech and Programmatic)
+Company: Magnite
+URL: https://de.linkedin.com/jobs/view/sales-account-executive-berlin-ad-tech-and-programmatic-at-magnite-4424434590
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 36 FAILED
+Title: Corporate (Mid-Market) Account Executive DACH (m/w/d)
+Company: SoSafe
+URL: https://de.linkedin.com/jobs/view/corporate-mid-market-account-executive-dach-m-w-d-at-sosafe-4343687017
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 38 FAILED
+Title: Sr. Sales Representative (Defense/Data Center) (m/f/d)
+Company: Honeywell Technologies
+URL: https://de.linkedin.com/jobs/view/sr-sales-representative-defense-data-center-m-f-d-at-honeywell-technologies-4384318045
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 40 FAILED
+Title: Founding GTM
+Company: BENCH
+URL: https://de.linkedin.com/jobs/view/founding-gtm-at-bench-4455048182
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 42 FAILED
+Title: (Junior) Sales Representative / Vertriebsmitarbeiter (m/w/d) Neurovascular (Hemorrhagic) Außendienst
+Company: Stryker
+URL: https://de.linkedin.com/jobs/view/junior-sales-representative-vertriebsmitarbeiter-m-w-d-neurovascular-hemorrhagic-au%C3%9Fendienst-at-stryker-4454433097
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 44 FAILED
+Title: Sales Associate (m/w/d)
+Company: Cartier
+URL: https://de.linkedin.com/jobs/view/sales-associate-m-w-d-at-cartier-4433265298
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 46 FAILED
+Title: Sales Associate
+Company: kate spade new york
+URL: https://de.linkedin.com/jobs/view/sales-associate-at-kate-spade-new-york-4411508245
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 48 FAILED
+Title: Sales Agent (m/w/d) Kredite
+Company: CHECK24 Vergleichsportal GmbH
+URL: https://de.linkedin.com/jobs/view/sales-agent-m-w-d-kredite-at-check24-vergleichsportal-gmbh-4433875240
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 50 FAILED
+Title: Sales Agent (m/w/d) Kredite
+Company: CHECK24 Vergleichsportal GmbH
+URL: https://de.linkedin.com/jobs/view/sales-agent-m-w-d-kredite-at-check24-vergleichsportal-gmbh-4433860953
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------
+
+JOB 52 FAILED
+Title: Sales Engineer (m/w/d) PLZ 90/91*
+Company: SMC Deutschland
+URL: https://de.linkedin.com/jobs/view/sales-engineer-m-w-d-plz-90-91-at-smc-deutschland-4439223423
+Error Type: TimeoutException
+Error: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c00e8a65+5625]
+	chromedriver!(No symbol) [0x7ff7c000ce10]
+	chromedriver!(No symbol) [0x7ff7bfe35f8d]
+	chromedriver!(No symbol) [0x7ff7bfe913ea]
+	chromedriver!(No symbol) [0x7ff7bfe916fc]
+	chromedriver!(No symbol) [0x7ff7bfee22f7]
+	chromedriver!(No symbol) [0x7ff7bfedeef1]
+	chromedriver!(No symbol) [0x7ff7bfe8384b]
+	chromedriver!(No symbol) [0x7ff7bfe84783]
+	chromedriver!GetHandleVerifier [0x7ff7c050476b+42132b]
+	chromedriver!GetHandleVerifier [0x7ff7c052fcf2+44c8b2]
+	chromedriver!GetHandleVerifier [0x7ff7c0523c9e+44085e]
+	chromedriver!GetHandleVerifier [0x7ff7c01e4e3e+1019fe]
+	chromedriver!(No symbol) [0x7ff7c0019f6c]
+	chromedriver!(No symbol) [0x7ff7c0015c44]
+	chromedriver!(No symbol) [0x7ff7c0015dd4]
+	chromedriver!(No symbol) [0x7ff7c0000cbc]
+	KERNEL32!BaseThreadInitThunk [0x7ff87a507374+14]
+	ntdll!RtlUserThreadStart [0x7ff87c2fcc91+21]
+
+--------------------------------------------------------------------------------

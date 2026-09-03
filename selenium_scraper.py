@@ -270,7 +270,8 @@ try:
             desc_el = wait.until(
                 EC.presence_of_element_located((
                     By.CSS_SELECTOR,
-                    "div.show-more-less-html__markup"
+                    "div.show-more-less-html__markup, [data-testid='expandable-text-box']"
+                
                 ))
             )
             # ==================================================

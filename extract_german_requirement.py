@@ -7,7 +7,7 @@ import time
 load_dotenv()
 start = time.time()  # start timer
 
-file = "Marketing Specialist_job_scrape_30_08_22_29.xlsx"
+file = "Sales Specialist_job_scrape_30_08_23_31.xlsx"
 df = pd.read_excel(file)
 
 
